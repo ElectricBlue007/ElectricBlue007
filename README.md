@@ -21,8 +21,7 @@ Add the exact Persian spelling of your name below.
 
 [![Website](https://img.shields.io/badge/Website-ksunenergy.ir-0A66C2?style=flat-square)](https://ksunenergy.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-ElectricBlue007-181717?style=flat-square&logo=github)](https://github.com/ElectricBlue007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)]({{LINKEDIN_URL}})
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:{{EMAIL_ADDRESS}})
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:{{sinaka0987@gmail.com}})
 
 </div>
 
