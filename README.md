@@ -212,8 +212,7 @@ Local AI · Multilingual RAG · OCR · Energy digital twins · Backend architect
 
 - وب‌سایت: [ksunenergy.ir](https://ksunenergy.ir)
 - گیت‌هاب: [github.com/ElectricBlue007](https://github.com/ElectricBlue007)
-- لینکدین: [{{LINKEDIN_DISPLAY}}]({{LINKEDIN_URL}})
-- ایمیل: [{{EMAIL_ADDRESS}}](mailto:{{EMAIL_ADDRESS}})
+- ایمیل: [{{sinaka0987@gmail.com}}](mailto:{{EMAIL_ADDRESS}})
 
 ---
 
